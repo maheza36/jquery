@@ -55,6 +55,5 @@ $(document).ready(function(){
 
   dom_ul.addClass("little-list");
   dom_ul.removeClass("little-list");
-
 });
 console.log("before DOM read");
